@@ -5,9 +5,9 @@ Welcome to my GitHub profile! Let me share a little about myself. 😊
 ---
 
 ## 👀 Interests
-- 🎯 Passionate about **programming** and creating meaningful projects.
-- 🌍 Love **traveling** to new places and exploring diverse cultures.
-- 🎵 Enjoy **good music** to keep my creativity flowing.
+- 🎯 Passionate about **Programming** and creating meaningful projects.
+- 🌍 Love **Traveling** to new places and exploring diverse cultures.
+- 🎵 Enjoy **Good Music** to keep my creativity flowing.
 
 ---
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Let me share a little about myself. 😊
 ## 💻 Skills
 - **Languages:** Java, Python
 - **Domains:** Full-Stack Web Development
-- **Hobbies:** Playing guitar 🎸 and cricket 🏏
+- **Hobbies:** Playing Guitar 🎸 and Cricket 🏏
 
 ---
 
